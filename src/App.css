@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.search-form {
+    margin: -7px;
+}
+
+.search-txt {
+  width:auto;
+  float: left;
+  margin-right: 10px;
+}
+
+.grid-css {
+  margin:0;
+}
+
+.add-new {
+  margin-bottom: 20px;
+}
+
+.yes-btn {
+  background-color: green;
+  color: white;
+}
+
+.no-btn {
+  background-color: red;
+  color: white;
+}
+
+.img-bg {
+  background-color: #444444;
+  height: 150px;
+  width: 150px;
+  margin-left: 27%;
+  margin-top: 3%;
+  border-radius: 100px;
+  padding: 15%;
+  font-size: 25px;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.txt-point {
+  color: white;
+}
+
+.border-right {
+  border-right-style: solid;
+}
+
+.border-left {
+  border-left-style: solid;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
